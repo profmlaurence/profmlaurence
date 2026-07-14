@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Olá, sou o Moisés Laurence
 
-<!--
-**profmlaurence/profmlaurence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cientista de Dados | Engenheiro de Machine Learning | Especialista em IA Generativa**
 
-Here are some ideas to get you started:
+Docente e pesquisador com mais de 10 anos de experiência na interseção entre pesquisa científica e sistemas em produção. Doutorando em Biotecnologia e Mestre em Ciência da Computação, com foco em redes neurais profundas, IA Generativa (LLMs/RAG) e modelagem de bioprocessos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em destaque
+
+• 🧬 [2G_LAPEQ](https://github.com/profmlaurence/2G_LAPEQ) — software da tese, registrado no INPI, em produção com CI/CD
+
+• 💧 [MonitorWater](https://github.com/profmlaurence/MonitorWater) / [aed-water](https://github.com/profmlaurence/aed-water) — ecossistema IoT + IA para monitoramento ambiental
+
+• 🤖 [ia_codes](https://github.com/profmlaurence/ia_codes) — notebooks do curso de Inteligência Artificial
+
+### 🛠️ Stack principal
+
+Python · PyTorch · TensorFlow/Keras · Scikit-learn · LangChain · FastAPI · Docker · Google Cloud (GCP) · PostgreSQL · GitHub Actions
+
+### 📫 Contacto
+
+• LinkedIn: linkedin.com/in/moiseslaurence
+
+• Currículo Lattes
+
+• Site: lapeq2g.com
